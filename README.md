@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Maatoori Akshith
 
-<!--
-**akshithhh1406-ux/akshithhh1406-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile views counter -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maatooriakshith&label=Profile%20views&color=0e75b6&style=flat" alt="maatooriakshith" /> </p>
 
-Here are some ideas to get you started:
+I'm a passionate B.Tech student at **Sandip University, Nashik**, currently pursuing **CSE (AI & ML)**. I'm deeply interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 **Design & Editing** (Video Editing, Motion Graphics, UI/UX)
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🛠️ **Tech Skills** (Python, C, Automation, AI tools)
+- 🧠 Personal Growth | 🎯 Productivity | 🎥 Content Creation
+
+---
+
+## 🔧 Tech Stack I’m Exploring
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C Language](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shield)
+
